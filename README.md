@@ -2,10 +2,7 @@
 ```bash
 cd client/web/quantathon
 npm i
-cd ..
-cd ..
-cd ..
-cd server
+cd ../../../../server
 pip install -r requirements.txt
 ```
 
